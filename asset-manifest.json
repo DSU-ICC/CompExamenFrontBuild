@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ab18984f.css",
+    "main.js": "/static/js/main.93a7241e.js",
+    "static/media/logo-footer.svg": "/static/media/logo-footer.b03adcd4fd463e8d6c9a420dd497c6af.svg",
+    "static/media/logo.svg": "/static/media/logo.313e7f52d0cdcbfd034c409cc56df1c1.svg",
+    "static/media/Geometria-Regular.woff": "/static/media/Geometria-Regular.8a7c9bf6c4fb69e13595.woff",
+    "static/media/Geometria-Medium.woff": "/static/media/Geometria-Medium.1b16651e7f4cc351074f.woff",
+    "static/media/Geometria-Bold.woff": "/static/media/Geometria-Bold.749ba15d9513267906cf.woff",
+    "static/media/Geometria-Regular.woff2": "/static/media/Geometria-Regular.914be1665d1d946c626c.woff2",
+    "static/media/Geometria-Medium.woff2": "/static/media/Geometria-Medium.8d57bf2f0682db5d7cb8.woff2",
+    "static/media/Geometria-Bold.woff2": "/static/media/Geometria-Bold.a1c6754de91a8a30c477.woff2",
+    "static/media/save.svg": "/static/media/save.6841812988fc2301785e.svg",
+    "static/media/calendar.svg": "/static/media/calendar.6afae4802f53d1b3dd80.svg",
+    "index.html": "/index.html",
+    "static/media/delete.svg": "/static/media/delete.36d99cd75c9d159df72a.svg",
+    "static/media/login.svg": "/static/media/login.cedfa33970454e08aa7a.svg",
+    "static/media/arrow-down.svg": "/static/media/arrow-down.269264c8e7241f30916c.svg",
+    "static/media/edit.svg": "/static/media/edit.b361977f388f5b8fef6c.svg",
+    "static/media/loading.svg": "/static/media/loading.17a1f91b8fc1f65aeadc.svg",
+    "static/media/close.svg": "/static/media/close.5e559af5ae350e2df2be55934cf1f93f.svg",
+    "static/media/plus.svg": "/static/media/plus.dc50459e7cfef803ab56.svg",
+    "main.ab18984f.css.map": "/static/css/main.ab18984f.css.map",
+    "main.93a7241e.js.map": "/static/js/main.93a7241e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab18984f.css",
+    "static/js/main.93a7241e.js"
+  ]
+}
