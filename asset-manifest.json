@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.68c6408f.css",
-    "main.js": "/static/js/main.18a7e022.js",
+    "main.css": "/static/css/main.8af043f7.css",
+    "main.js": "/static/js/main.f54fbde9.js",
     "static/media/logo-footer.svg": "/static/media/logo-footer.b03adcd4fd463e8d6c9a420dd497c6af.svg",
     "static/media/logo.svg": "/static/media/logo.313e7f52d0cdcbfd034c409cc56df1c1.svg",
     "static/media/Geometria-Regular.woff": "/static/media/Geometria-Regular.8a7c9bf6c4fb69e13595.woff",
@@ -20,11 +20,11 @@
     "static/media/loading.svg": "/static/media/loading.17a1f91b8fc1f65aeadc.svg",
     "static/media/close.svg": "/static/media/close.5e559af5ae350e2df2be55934cf1f93f.svg",
     "static/media/plus.svg": "/static/media/plus.dc50459e7cfef803ab56.svg",
-    "main.68c6408f.css.map": "/static/css/main.68c6408f.css.map",
-    "main.18a7e022.js.map": "/static/js/main.18a7e022.js.map"
+    "main.8af043f7.css.map": "/static/css/main.8af043f7.css.map",
+    "main.f54fbde9.js.map": "/static/js/main.f54fbde9.js.map"
   },
   "entrypoints": [
-    "static/css/main.68c6408f.css",
-    "static/js/main.18a7e022.js"
+    "static/css/main.8af043f7.css",
+    "static/js/main.f54fbde9.js"
   ]
 }
