@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.e7a27236.css",
-    "main.js": "/static/js/main.21c2a130.js",
+    "main.css": "/static/css/main.4f6088cc.css",
+    "main.js": "/static/js/main.a576e3ff.js",
     "static/media/Inter-italic.var.woff2?v=3.19": "/static/media/Inter-italic.var.30807be7abc48ba8c73c.woff2",
     "static/media/Inter-roman.var.woff2?v=3.19": "/static/media/Inter-roman.var.ba4caefcdf5b36b438db.woff2",
     "static/media/logo-footer.svg": "/static/media/logo-footer.b03adcd4fd463e8d6c9a420dd497c6af.svg",
@@ -22,11 +22,11 @@
     "static/media/loading.svg": "/static/media/loading.17a1f91b8fc1f65aeadc.svg",
     "static/media/close.svg": "/static/media/close.5e559af5ae350e2df2be55934cf1f93f.svg",
     "static/media/plus.svg": "/static/media/plus.dc50459e7cfef803ab56.svg",
-    "main.e7a27236.css.map": "/static/css/main.e7a27236.css.map",
-    "main.21c2a130.js.map": "/static/js/main.21c2a130.js.map"
+    "main.4f6088cc.css.map": "/static/css/main.4f6088cc.css.map",
+    "main.a576e3ff.js.map": "/static/js/main.a576e3ff.js.map"
   },
   "entrypoints": [
-    "static/css/main.e7a27236.css",
-    "static/js/main.21c2a130.js"
+    "static/css/main.4f6088cc.css",
+    "static/js/main.a576e3ff.js"
   ]
 }
