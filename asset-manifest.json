@@ -1,12 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.b3e855b4.css",
-    "main.js": "/static/js/main.557fb383.js",
+    "main.css": "/static/css/main.4d280d3c.css",
+    "main.js": "/static/js/main.05486120.js",
     "static/media/telemeter_wasm_bg.wasm": "/static/media/telemeter_wasm_bg.4b983ab8118504533cbf.wasm",
+    "static/media/logo.png": "/static/media/logo.95b339ee12a2c8a65919.png",
     "static/media/InterVariable-Italic.woff2": "/static/media/InterVariable-Italic.e295f70fe3e2df296c7b.woff2",
     "static/media/InterVariable.woff2": "/static/media/InterVariable.a0e477f2f1f9d2376fde.woff2",
-    "static/media/logo-footer.svg": "/static/media/logo-footer.b03adcd4fd463e8d6c9a420dd497c6af.svg",
-    "static/media/logo.svg": "/static/media/logo.313e7f52d0cdcbfd034c409cc56df1c1.svg",
     "static/media/Geometria-Regular.woff": "/static/media/Geometria-Regular.8a7c9bf6c4fb69e13595.woff",
     "static/media/Geometria-Medium.woff": "/static/media/Geometria-Medium.1b16651e7f4cc351074f.woff",
     "static/media/Geometria-Bold.woff": "/static/media/Geometria-Bold.749ba15d9513267906cf.woff",
@@ -35,11 +34,11 @@
     "static/media/loading.svg": "/static/media/loading.17a1f91b8fc1f65aeadc.svg",
     "static/media/close.svg": "/static/media/close.5e559af5ae350e2df2be55934cf1f93f.svg",
     "static/media/plus.svg": "/static/media/plus.dc50459e7cfef803ab56.svg",
-    "main.b3e855b4.css.map": "/static/css/main.b3e855b4.css.map",
-    "main.557fb383.js.map": "/static/js/main.557fb383.js.map"
+    "main.4d280d3c.css.map": "/static/css/main.4d280d3c.css.map",
+    "main.05486120.js.map": "/static/js/main.05486120.js.map"
   },
   "entrypoints": [
-    "static/css/main.b3e855b4.css",
-    "static/js/main.557fb383.js"
+    "static/css/main.4d280d3c.css",
+    "static/js/main.05486120.js"
   ]
 }
